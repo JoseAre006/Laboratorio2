@@ -1,29 +1,46 @@
-h1{font-size: 50px;}
+h1{ 
+    font-style: italic;
+    font-size: 50px;
+    color: rgba(20, 143, 119, 0.6);
+}
 
 body {background: pink;}
 
 h3{
-    font-size: xx-large;
+    font-style: oblique;
+    font-size: 2em;
     color: blue;
 }
 p{
+    font-style: oblique;
     background-color: black;
     color:red;
 }
 
 li{
+    font-style: oblique;
     background-color: black;
     color:red;
 }
 
 p a{
+    font-style: oblique;
     font-size: large;
     background-color: aquamarine;
     color: blueviolet;
 }
 
 .facebook{
+    font-style: oblique;
     font-size: x-large;
     background-color: rosybrown;
     color:greenyellow;    
+}
+div{
+    width: 300px;
+    padding: 20px;
+    background-color: yellow;
+    margin: 20px 50px;
+    border: 20px dotted;
+    border-color: coral;
 }
